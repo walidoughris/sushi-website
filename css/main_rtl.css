@@ -1,0 +1,7 @@
+body{
+    direction: rtl;
+    text-align: right;
+}
+.best-tasty .col-12 p{
+    line-height: 1.5;
+}
